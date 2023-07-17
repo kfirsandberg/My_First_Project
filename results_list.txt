@@ -1,0 +1,2 @@
+['all of your USD to ILS conversion:', 18.031878444]
+[18.031878444]
